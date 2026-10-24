@@ -510,6 +510,9 @@ For demonstration, two staff accounts are already set up. Sign in through the Ac
 | YAKAP clinic doctor | `clinic_test@gmail.com` | `abc123ABC` |
 | City Health Office (CHO) | `cho_test@gmail.com` | `abc123ABC` |
 
+> [!NOTE]
+> The clinic account comes with about 300 simulated patients, spread across Cagayan de Oro barangays by PSA 2020 population and scored by the app's model. They are sample data, not real patients.
+
 The doctor account is linked to a YAKAP clinic, so it can enter assessments, decide referrals, print slips and record uACR results. The CHO account sees the city overview, map, funnel, test budget and evidence. These are shared demo accounts: please don't change their passwords.
 
 ### Requesting access (not part of the demo)
